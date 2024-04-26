@@ -83,6 +83,6 @@ print(summary)
 ![output](op1.png)
 
 ## RESULT:
-Thus, the program to perform the Text summarization is executed sucessfully.
+Thus, the program to perform the Text summarization is executed successfully.
 
 
