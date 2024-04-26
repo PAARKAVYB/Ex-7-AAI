@@ -15,13 +15,13 @@ Download NLTK resources, including the punkt tokenizer and stopwords.
 Define Text Preprocessing Function to tokenize, remove stopwords, and perform stemming.
 ### STEP 4:
 Define the Text Summarization Function using a simple frequency-based approach.
-    - Calculate the frequency of each word in the preprocessed text.
-    - Calculate a score for each sentence based on the sum of word frequencies.
-    - Select the top N sentences with the highest scores to form the summary.
+    - Calculate the frequency of each word in the preprocessed text.<br>
+    - Calculate a score for each sentence based on the sum of word frequencies.<br>
+    - Select the top N sentences with the highest scores to form the summary.<br>
 ### STEP 5:
 Construct the main program to read the paragraph  and perform text summarization.
-    - Generate and print the original text.
-    - Generate and print the text summary using the  Text Summarization function.
+    - Generate and print the original text.<br>
+      - Generate and print the text summary using the  Text Summarization function<br>
 
 ## PROGRAM:
 ```
